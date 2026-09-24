@@ -43,15 +43,18 @@ If you find a bug or have a feature request, please check the [Issue Tracker](..
    ```bash
    git clone https://github.com/praisegeek/sona
    cd sona
+   ```
 
  * Install dependencies:
+   ```bash
    npm install
-
+   ```
  * Run the development environment:
+   ```bash
    npm run dev
-```
-
-Questions or Ideas?
+   ```
+   
+## Questions or Ideas?
 If you want to discuss a major architectural change or pitch a new feature (like remix studio additions or discovery enhancements), open an issue labeled discussion or start a conversation in our community channels.
 Thank you for helping keep music free, decentralized, and alive forever!
 
