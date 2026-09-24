@@ -41,7 +41,7 @@ If you find a bug or have a feature request, please check the [Issue Tracker](..
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/praisegeek/sona.git](https://github.com/praisegeek/sona.git)
+   git clone https://github.com/praisegeek/sona
    cd sona
 
  * Install dependencies:
@@ -49,6 +49,7 @@ If you find a bug or have a feature request, please check the [Issue Tracker](..
 
  * Run the development environment:
    npm run dev
+```
 
 Questions or Ideas?
 If you want to discuss a major architectural change or pitch a new feature (like remix studio additions or discovery enhancements), open an issue labeled discussion or start a conversation in our community channels.
