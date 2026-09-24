@@ -34,9 +34,9 @@
           └──► (Direct Tip)  ──► [ Smart Contract Wallet ] ──► [ Artist ]
 ```
 
-🤝 Contributing
+## 🤝 Contributing
 Sona is fully open-source and owned by its community. Check out our Contributing Guidelines to help build the future of independent audio.
 
-📄 License
+## 📄 License
 Distributed under the MIT License. See LICENSE for more information.
 
