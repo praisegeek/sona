@@ -32,6 +32,7 @@
           ├──► (Fetch Audio) ──► [ Decentralized Storage (IPFS / Arweave) ]
           │
           └──► (Direct Tip)  ──► [ Smart Contract Wallet ] ──► [ Artist ]
+```
 
 🤝 Contributing
 Sona is fully open-source and owned by its community. Check out our Contributing Guidelines to help build the future of independent audio.
