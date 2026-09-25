@@ -26,13 +26,7 @@
 
 ## 🗺️ High-Level Architecture
 
-```text
- [ Listeners (Peers) ] ──(WebRTC P2P Stream)──► [ Listeners (Peers) ]
-          │
-          ├──► (Fetch Audio) ──► [ Decentralized Storage (IPFS / Arweave) ]
-          │
-          └──► (Direct Tip)  ──► [ Smart Contract Wallet ] ──► [ Artist ]
-```
+![Sona Architecture](/blueprint-sona.jpg)
 
 ## 🤝 Contributing
 Sona is fully open-source and owned by its community. Check out our Contributing Guidelines to help build the future of independent audio.
